@@ -1,19 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nouman Ahmad</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammad Asad Zaheer</h1>
 <h3 align="center">Researcher & Development Engineer | AI for Healthcare | Computer Vision | Machine Learning | Data Science | NLP Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nouman-ahmad/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ArtificialIntelligenceHub" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nouman-ahmad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="noumannahmad" height="30" width="40" /></a>
-<a href="https://www.instagram.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="noumannahmad" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/noumannahmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="nouman ahmad" height="30" width="40" /></a>
-<a href = "mailto: noumanahmad2609@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-asad-zaheer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="asad-zaheer" height="30" width="40" /></a>
+
+
+
+<a href = "mailto: asadzaheer5091@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
 
 <p align="center">
   <em>
-    This is ME, Nouman ahmad, a <b>PhD Scholar </b> , <a href="https://katalog.uu.se/empInfo/?id=N21-1331/"> <b>Uppsala University</b>, Sweden </a>. <br>
+    This is ME, Muhammad Asad Zaheer,
     A budding <b>Computer Vision & Machine Learning Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
