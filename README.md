@@ -32,16 +32,7 @@
 
 <ol>
     <li value="1"><a href="https://github.com/Muhammad-Asad-Zaheer/Machine-Learning">Machine-Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Deep-Federated-Learning">Deep Federated Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
-  <li><a href="https://github.com/noumannahmad/Generative-Adversarial-Network">Generative Adversarial Network</a></li>
-  <li><a href="https://github.com/noumannahmad/Computer-Vision">Computer Vision</a></li>
-  <li><a href="https://github.com/noumannahmad/Deep-Learning">Deep Learning</a></li>
-  <li><a href="https://github.com/noumannahmad/Machine-Learning">Machine Learning</a></li> 
-  <li><a href="https://github.com/noumannahmad/Natural-Language-Processing">Natural Language Processing</a></li>
-  <li><a href="https://github.com/noumannahmad/OpenCV">OpenCV</a></li>
-  <li><a href="https://github.com/noumannahmad/Amazing-Python">Amazing Python</a></li>
-  <li><a href="https://github.com/noumannahmad/Flask">Flask Web Apps</a></li>
+  
 </ol>
 
 
