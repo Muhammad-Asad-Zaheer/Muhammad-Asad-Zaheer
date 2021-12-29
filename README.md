@@ -31,7 +31,7 @@
 <h2>This Github Repositories are:</h2>
 
 <ol>
-    <li value="1"><a href="https://github.com/noumannahmad/Medical-Imaging-with-Deep-Learning">Medical Imaging with Deep Learning</a></li>
+    <li value="1"><a href="https://github.com/Muhammad-Asad-Zaheer/Machine-Learning">Machine-Learning</a></li>
   <li><a href="https://github.com/noumannahmad/Deep-Federated-Learning">Deep Federated Learning</a></li>
   <li><a href="https://github.com/noumannahmad/Interpreting-Machine-Learning-Models">Interpretable Machine Learning & Explainable AI(XAI)</a></li>
   <li><a href="https://github.com/noumannahmad/Generative-Adversarial-Network">Generative Adversarial Network</a></li>
